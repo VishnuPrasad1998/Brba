@@ -1,4 +1,4 @@
-A static web page about Breaking Bad Characters. Built by following Brad Traversys video.
+A static web page about Breaking Bad Characters. Built by following Brad Traversy's video.
 Stack used : React, React Hooks, Axios. Also hosted the same in Netlify.
 
 Tutorial link : https://youtu.be/YaioUnMw0mo
